@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "app.netlify.neon_monstera_896f5e.twa",
+  "variantName": "release",
+  "elements": []
+}

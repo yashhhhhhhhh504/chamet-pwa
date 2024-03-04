@@ -1,0 +1,38 @@
+{
+  "name": "CHAMET",
+  "short_name": "chamet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "scope": "/",
+  "description": "Chamet is a video chat application",
+  "icons": [
+    {
+      "src": "/app-icons/android/mipmap-xxxhdpi/ic_launcher.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "favicon"
+    },
+    {
+      "src": "/app-icons/playstore.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "favicon"
+    },
+    {
+      "src": "/app-icons/appstore.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch icon"
+    },
+    {
+      "src": "/app-icons/maskable/maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#3930d7",
+  "orientation": "portrait"
+}

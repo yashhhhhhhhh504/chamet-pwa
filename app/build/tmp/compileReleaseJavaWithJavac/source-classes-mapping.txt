@@ -1,0 +1,8 @@
+app/netlify/neon_monstera_896f5e/twa/DelegationService.java
+ app.netlify.neon_monstera_896f5e.twa.DelegationService
+app/netlify/neon_monstera_896f5e/twa/LauncherActivity.java
+ app.netlify.neon_monstera_896f5e.twa.LauncherActivity
+app/netlify/neon_monstera_896f5e/twa/BuildConfig.java
+ app.netlify.neon_monstera_896f5e.twa.BuildConfig
+app/netlify/neon_monstera_896f5e/twa/Application.java
+ app.netlify.neon_monstera_896f5e.twa.Application
